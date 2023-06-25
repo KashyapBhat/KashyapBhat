@@ -18,6 +18,6 @@ Senior Software Developer working at [5Paisa (IIFL)](https://www.5paisa.com/), E
 
 Software Engineer with 4+ years of experience delivering high-quality B2B and B2C applications.
 <br /><br />
-Experience in developing **Mobile** (android + flutter) and **Computer vision** (object detection + image segmentation) applications. <br />Checkout the repos below for more details!
+Developing **Mobile** (android + flutter) and **Computer vision** (object detection + image segmentation) applications. <br />Checkout the repos below for more details!
 <br /><br />
 I love long rides and good food.
