@@ -12,17 +12,17 @@ Expertise in developing **Mobile** applications using Android and Flutter, as we
 ## Interests
 Apart from coding, I love going on long rides and exploring good food. If you have any recommendations for food joints or scenic routes, do share! Feel free to reach out if you have any questions or just want to connect. 😊
 
-<a href="http://instagram.com/mr__bhat">
-  <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/@KashyapBhat">
-  <img align="left" alt="Kashyap's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://www.linkedin.com/in/kashyapdas/">
   <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@kashyapbhat">
   <img align="left" alt="Kashyap's Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />
+</a>
+<a href="http://instagram.com/mr__bhat">
+  <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/@KashyapBhat">
+  <img align="left" alt="Kashyap's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br /><br />
 
