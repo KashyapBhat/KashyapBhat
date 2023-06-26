@@ -2,7 +2,7 @@
 
 I'm [Kashyap](https://www.kashyapbhat.in/)
 <br />
-Senior Software Developer working at [5Paisa (IIFL)](https://www.5paisa.com/), Ex-[Servify](https://servify.in/).
+Developer working at [5Paisa (IIFL)](https://www.5paisa.com/), Ex-[Servify](https://servify.in/).
 
 <a href="https://www.linkedin.com/in/kashyapdas/">
   <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
