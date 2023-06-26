@@ -27,5 +27,4 @@ Apart from coding, I love going on long rides and exploring good food. If you ha
 <br /><br />
 
 <br />
-Also, Take a look at some of my pinned projects below!
-
+Check out my pinned projects below for more details!
