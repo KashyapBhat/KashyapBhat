@@ -4,6 +4,7 @@ I'm [Kashyap](https://www.kashyapbhat.in/)
 <br />
 Developer working at [5Paisa (IIFL)](https://www.5paisa.com/), Ex-[Servify](https://servify.in/).
 
+#### Contact:
 <a href="https://www.linkedin.com/in/kashyapdas/">
   <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,11 +14,16 @@ Developer working at [5Paisa (IIFL)](https://www.5paisa.com/), Ex-[Servify](http
 <a href="http://instagram.com/mr__bhat">
   <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://medium.com/@kashyapbhat">
+  <img align="left" alt="Kashyap's Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />
+</a>
 <br />
 <br />
 
-Software Engineer with 4+ years of experience delivering high-quality B2B and B2C applications.
+Engineer with 4+ years of experience delivering high-quality B2B and B2C applications.
 <br /><br />
-Developing **Mobile** (android + flutter) and **Computer vision** (object detection + image segmentation) applications. <br />Checkout the repos below for more details!
+Developing **Mobile** (android + flutter) and **Computer vision** (object detection + image segmentation) applications. <br /> Check out the repos below for more details!
 <br /><br />
 I love long rides and good food.
+
+
