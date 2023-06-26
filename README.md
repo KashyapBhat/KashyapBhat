@@ -4,7 +4,10 @@ I'm Kashyap, a passionate software engineer with 4+ years of experience in deliv
 
 
 ## About Me
-Expertise in developing **Mobile** applications using Android and Flutter, as well as **Computer vision** applications including object detection and image segmentation. <br /><br />I strive to deliver exceptional solutions that meet the needs of both businesses and consumers.
+Expertise in developing **Mobile** applications using Android and Flutter, as well as **Computer vision** applications including object detection and image segmentation.
+
+🌱 Passionate about delivering exceptional software solutions that meet the needs of businesses and consumers.
+
 
 ## Interests
 Apart from coding, I love going on long rides and exploring good food. If you have any recommendations for food joints or scenic routes, do share! Feel free to reach out if you have any questions or just want to connect. 😊
