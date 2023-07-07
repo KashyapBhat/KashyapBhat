@@ -1,6 +1,6 @@
 ### Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Kashyap, a passionate software engineer with 4+ years of experience in delivering high-quality B2B and B2C applications. Currently, I work at [5Paisa (IIFL)](https://www.5paisa.com/) and previously, I was associated with [Servify](https://servify.in/).
+I'm Kashyap, a passionate software engineer with 4+ years of experience in delivering high-quality B2B and B2C applications. Currently, I work at [5Paisa Capital (IIFL)](https://www.5paisa.com/) and previously, I was associated with [Servify](https://servify.in/).
 
 
 ## About Me
