@@ -8,6 +8,7 @@ Expertise in developing **Mobile** applications using Android and Flutter, as we
 
 🌱 Passionate about delivering exceptional software solutions that meet the needs of businesses and consumers.
 
+Android, Flutter, Kotlin Multiplatform, and Compose Multiplatform
 
 ## Interests
 Apart from coding, I love going on long rides and exploring good food. If you have any recommendations for food joints or scenic routes, do share! Feel free to reach out if you have any questions or just want to connect. 😊
