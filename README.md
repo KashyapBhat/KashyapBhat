@@ -1,31 +1,49 @@
-### Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-I'm Kashyap, a passionate software engineer with 4+ years of experience in delivering high-quality B2B and B2C applications. Currently, I work at [5Paisa Capital (IIFL)](https://www.5paisa.com/) and previously, I was associated with [Servify](https://servify.in/).
+I'm **Kashyap Bhanu Das**, a Senior Software Engineer with 6+ years of experience building scalable, high-performance B2B and B2C applications. I currently contribute at [5Paisa Capital Ltd](https://www.5paisa.com/), focusing on mobile development and fintech innovations. Previously, I worked at [Servify](https://servify.in/) developing cutting-edge insurance-tech solutions.
 
+---
 
-## About Me
-Expertise in developing **Mobile** applications using Android and Flutter, as well as **Computer vision** applications including object detection and image segmentation.
+## 👨‍💻 About Me
 
-🌱 Passionate about delivering exceptional software solutions that meet the needs of businesses and consumers.
+I specialize in **native Android** and **Flutter** app development, with deep expertise in **computer vision** technologies like TensorFlow Lite and ML Kit for real-world applications such as device damage detection and grading—adopted by Samsung in India and the US.
 
-Android, Flutter, Kotlin Multiplatform, and Compose Multiplatform
+* Skilled in Kotlin Multiplatform and Compose Multiplatform for cross-platform mobile solutions
+* Experience in architecting scalable SDKs with localization, dynamic configurations, and high stability
+* Passionate about clean architecture, performance optimization, and delivering seamless user experiences
+* Actively mentor teams and drive product roadmaps aligned with business goals
 
-## Interests
-Apart from coding, I love going on long rides and exploring good food. If you have any recommendations for food joints or scenic routes, do share! Feel free to reach out if you have any questions or just want to connect. 😊
+---
 
-<a href="https://www.linkedin.com/in/kashyapdas/">
-  <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@kashyapbhat">
-  <img align="left" alt="Kashyap's Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />
-</a>
-<a href="http://instagram.com/mr__bhat">
-  <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/@KashyapBhat">
-  <img align="left" alt="Kashyap's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br /><br />
+## 🚀 What I’m working on
 
-<br />
-Check out my pinned projects below for more details!
+At 5Paisa, I lead mission-critical modules — Order Placement, Option Chain, Watchlist, and SEBI compliance — powering millions of daily users with 99.9%+ crash-free stability. I drive migration of legacy apps to Flutter, optimize app size and performance, and enhance real-time data flow using WebSocket and MQTT protocols.
+
+---
+
+## 🌱 Skills & Technologies
+
+**Mobile:** Android (Kotlin, Java), Flutter & Dart, iOS (Swift basics) </br>
+**Cross-Platform:** Kotlin Multiplatform, Compose Multiplatform</br>
+**Backend & Networking:** WebSocket, MQTT, Secure APIs</br>
+**Machine Learning:** TensorFlow Lite, ML Kit</br>
+**DevOps & Tools:** CI/CD, Play Store & Maven Deployments</br>
+**Other:** Localization, SDK Development, Performance Optimization, Agile Scrum</br>
+
+---
+
+## 🎯 Interests
+
+Beyond coding, I’m an avid fan of long rides and discovering great food spots. Always up for recommendations on scenic routes or must-try local cuisines! Feel free to connect if you want to chat tech, rides, or food. 😊
+
+---
+
+## 📫 Let’s Connect!
+
+<a href="https://www.linkedin.com/in/kashyapdas/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" /></a> <a href="https://medium.com/@kashyapbhat" target="_blank"><img alt="Medium" src="https://simpleicons.org/icons/medium.svg" width="22" /></a> <a href="http://instagram.com/mr__bhat" target="_blank"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" /></a> <a href="https://www.youtube.com/@KashyapBhat" target="_blank"><img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22" /></a>
+
+---
+
+## 📂 Featured Projects
+
+Check out my pinned repositories for deep dives into my work!
