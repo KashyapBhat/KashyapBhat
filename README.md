@@ -6,12 +6,7 @@ I'm **Kashyap Bhanu Das**, a Senior Software Engineer with 6+ years of experienc
 
 ## 👨‍💻 About Me
 
-I specialize in **native Android** and **Flutter** app development, with deep expertise in **computer vision** technologies like TensorFlow Lite and ML Kit for real-world applications such as device damage detection and grading—adopted by Samsung in India and the US.
-
-* Skilled in Kotlin Multiplatform and Compose Multiplatform for cross-platform mobile solutions
-* Experience in architecting scalable SDKs with localization, dynamic configurations, and high stability
-* Passionate about clean architecture, performance optimization, and delivering seamless user experiences
-* Actively mentor teams and drive product roadmaps aligned with business goals
+I specialize in **native Android** and **Flutter** app development, with expertise in **computer vision** technologies like TensorFlow Lite and ML Kit for real-world applications such as device damage detection.
 
 ---
 
