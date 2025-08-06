@@ -14,4 +14,7 @@ Beyond coding, I’m an avid fan of long rides and discovering great food spots.
 Check out my pinned repositories for in-depth explorations of my work!
 
 Let’s Connect: 
+
 https://medium.com/@kashyapdas
+
+https://www.linkedin.com/in/kashyapdas/
