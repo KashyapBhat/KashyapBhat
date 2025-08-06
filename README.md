@@ -13,4 +13,5 @@ Beyond coding, I’m an avid fan of long rides and discovering great food spots.
 
 Check out my pinned repositories for in-depth explorations of my work!
 
-Let’s Connect: <a href="https://www.linkedin.com/in/kashyapdas/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" /></a> <a href="https://medium.com/@kashyapbhat" target="_blank"><img alt="Medium" src="https://simpleicons.org/icons/medium.svg" width="22" /></a> 
+Let’s Connect: 
+https://medium.com/@kashyapdas
