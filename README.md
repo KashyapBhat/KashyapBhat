@@ -26,9 +26,8 @@ I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, lead
 
 <table>
   <tr>
-    <td width="33%"><img src="assets/screenshots/5paisa-1.jpg" width="100%" /></td>
-    <td width="33%"><img src="assets/screenshots/5paisa-2.jpg" width="100%" /></td>
-    <td width="33%"><img src="assets/screenshots/5paisa-3.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/5paisa-1.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/5paisa-2.jpg" width="100%" /></td>
   </tr>
 </table>
 
@@ -39,9 +38,8 @@ I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, lead
 
 <table>
   <tr>
-    <td width="33%"><img src="assets/screenshots/servify-1.jpg" width="100%" /></td>
-    <td width="33%"><img src="assets/screenshots/servify-2.jpg" width="100%" /></td>
-    <td width="33%"><img src="assets/screenshots/servify-3.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/servify-1.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/servify-2.jpg" width="100%" /></td>
   </tr>
 </table>
 
