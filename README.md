@@ -10,8 +10,9 @@ I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, lead
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/screenshots/fyers-1.jpg" width="100%" /></td>
-    <td width="50%"><img src="assets/screenshots/fyers-2.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/fyers-1.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/fyers-2.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/fyers-3.jpg" width="100%" /></td>
   </tr>
 </table>
 
