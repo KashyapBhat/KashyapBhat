@@ -36,12 +36,7 @@ I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, lead
 - Launched mInspect diagnostics (500K+ users), cutting trade-in fraud by ~30%
 - Shipped TFLite + ML Kit SDKs for damage detection, integrated by Samsung US/India teams in under 2 days
 
-<table>
-  <tr>
-    <td width="50%"><img src="assets/screenshots/servify-1.jpg" width="100%" /></td>
-    <td width="50%"><img src="assets/screenshots/servify-2.jpg" width="100%" /></td>
-  </tr>
-</table>
+![Servify](assets/screenshots/servify-1.jpg)
 
 ### Tech stack
 
