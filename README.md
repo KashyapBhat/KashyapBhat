@@ -8,10 +8,12 @@ Android · Flutter · Dart · Kotlin Multiplatform · Computer Vision
 
 I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, leading options-trading FE systems (web + mobile) — design system, API contracts, performance & reliability guardrails, and CI/CD releases. Also driving an AI-first SDLC: codified skills & rules, MCPs, and agent workflows for tighter design–build–test loops.
 
-<p>
-  <img src="assets/screenshots/fyers-1.jpg" width="49%" />
-  <img src="assets/screenshots/fyers-2.jpg" width="49%" />
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/fyers-1.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/fyers-2.jpg" width="100%" /></td>
+  </tr>
+</table>
 
 ### Where I've been
 
@@ -22,22 +24,26 @@ I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, lead
 - Shipped an in-house monitoring/logging SDK and a Dart SDK that cut asset size by 63.7%
 - Android: MVVM/MVI, StateFlow, Coroutines, Room, Retrofit, Hilt, Koin — reached 99.99% Crashlytics stability
 
-<p>
-  <img src="assets/screenshots/5paisa-1.jpg" width="32%" />
-  <img src="assets/screenshots/5paisa-2.jpg" width="32%" />
-  <img src="assets/screenshots/5paisa-3.jpg" width="32%" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="assets/screenshots/5paisa-1.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/5paisa-2.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/5paisa-3.jpg" width="100%" /></td>
+  </tr>
+</table>
 
 **[Servify](https://servify.in/)** (InsurTech) · Product Engineer 3 - Mobile · 2019–2023
 - Maintained Servify core and 10+ white-label apps (10M+ users); redesigned OnePlus Care to align with OxygenOS
 - Launched mInspect diagnostics (500K+ users), cutting trade-in fraud by ~30%
 - Shipped TFLite + ML Kit SDKs for damage detection, integrated by Samsung US/India teams in under 2 days
 
-<p>
-  <img src="assets/screenshots/servify-1.jpg" width="32%" />
-  <img src="assets/screenshots/servify-2.jpg" width="32%" />
-  <img src="assets/screenshots/servify-3.jpg" width="32%" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="assets/screenshots/servify-1.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/servify-2.jpg" width="100%" /></td>
+    <td width="33%"><img src="assets/screenshots/servify-3.jpg" width="100%" /></td>
+  </tr>
+</table>
 
 ### Tech stack
 
