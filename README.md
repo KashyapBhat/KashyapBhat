@@ -8,11 +8,12 @@ Android · Flutter · Dart · Kotlin Multiplatform · Computer Vision
 
 I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, leading options-trading FE systems (web + mobile) — design system, API contracts, performance & reliability guardrails, and CI/CD releases. Also driving an AI-first SDLC: codified skills & rules, MCPs, and agent workflows for tighter design–build–test loops.
 
-![Strategy builder](assets/screenshots/fyers-1.jpg)
-
-![Backtest results](assets/screenshots/fyers-2.jpg)
-
-![Automation builder](assets/screenshots/fyers-3.jpg)
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/fyers-1.jpg" width="100%" /></td>
+    <td width="50%"><img src="assets/screenshots/fyers-2.jpg" width="100%" /></td>
+  </tr>
+</table>
 
 ### Where I've been
 
