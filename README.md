@@ -6,7 +6,7 @@ Android · Flutter · Dart · Kotlin Multiplatform · Computer Vision
 
 ### What I'm doing now
 
-I'm a **Technical Lead Engineer at [FYERS](https://fyers.in/)**, leading options-trading FE systems (web + mobile) — design system, API contracts, performance & reliability guardrails, and CI/CD releases. Also driving an AI-first SDLC: codified skills & rules, MCPs, and agent workflows for tighter design–build–test loops.
+I'm a **Technical Lead Engineer at [FYERS Securities](https://fyers.in/)**, leading options-trading FE systems (web + mobile) — design system, API contracts, performance & reliability guardrails, and CI/CD releases. Also driving an AI-first SDLC: codified skills & rules, MCPs, and agent workflows for tighter design–build–test loops.
 
 ### Where I've been
 
