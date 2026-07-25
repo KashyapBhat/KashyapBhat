@@ -38,7 +38,7 @@ Outside of code, I'm usually planning a long ride or hunting down a good food sp
 
 ### Let's connect
 
-📧 [kashyap.das.in@gmail.com](mailto:kashyap.das.in@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kashyapdas/) · ✍️ [Medium](https://medium.com/@kashyapdas)
+📧 [kashyap.das.in@gmail.com](mailto:kashyap.das.in@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kashyapdas/) · ✍️ [Medium](https://medium.com/@kashyapdas) · 🌐 [Portfolio](https://kashyap-das.carrd.co/)
 
 ### Featured projects
 
